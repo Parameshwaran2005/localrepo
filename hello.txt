@@ -2,3 +2,5 @@ hey there
 i am making mkdir localrepo 
 and pushing it directly to github via vs code
 using git init
+
+using in a sub branch named as feature
